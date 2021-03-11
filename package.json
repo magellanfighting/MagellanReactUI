@@ -1,11 +1,12 @@
 {
   "name": "magellanfightingtest",
-  "version": "1.0.14",
+  "version": "1.0.17",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rm -rf lib && babel src --out-dir lib"
+    "build": "rm -rf lib && babel src --out-dir lib",
+    "deploy": "npm config set registry https://registry.npmjs.org && npm publish &&  npm config set registry http://registry.npm.taobao.org"
   },
   "author": "",
   "license": "ISC",

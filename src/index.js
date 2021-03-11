@@ -1,4 +1,6 @@
-import TestHaHa from './TestHaHa.js';
+import TestHaHa from './components/TestHaHa';
+import TestHeHe from './components/TestHeHe';
 module.exports={
-    TestHaHa
+    TestHaHa,
+    TestHeHe
 }
