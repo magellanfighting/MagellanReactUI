@@ -1,0 +1,96 @@
+{
+  "config": {
+    "title": "Magellanfightingtest",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "1.0.17",
+    "repository": null,
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "README.md",
+      "value": {
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "/Users/magellan/Desktop/npm/MagellanReactUI/README.md",
+        "link": "",
+        "hidden": false,
+        "slug": "readme",
+        "route": "/readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "使用",
+            "depth": 3,
+            "value": "使用"
+          },
+          {
+            "slug": "查看文档--yarn-docz-dev",
+            "depth": 3,
+            "value": "查看文档  yarn docz dev"
+          }
+        ]
+      }
+    },
+    {
+      "key": "documents/CustomButton使用文档.md",
+      "value": {
+        "id": "6ad6fe709efc94117fe6fb88071b9b47",
+        "filepath": "documents/CustomButton使用文档.md",
+        "fullpath": "/Users/magellan/Desktop/npm/MagellanReactUI/documents/CustomButton使用文档.md",
+        "link": "",
+        "hidden": false,
+        "slug": "documents-custom-button",
+        "route": "/documents-custom-button",
+        "name": "Custom button使用文档",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "asdasd",
+            "depth": 1,
+            "value": "asdasd"
+          }
+        ]
+      }
+    }
+  ],
+  "props": [
+    {
+      "key": "src/components/CustomButton/CustomButton.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "CustomButton",
+          "methods": [],
+          "actualName": "CustomButton"
+        }
+      ]
+    },
+    {
+      "key": "src/components/TestHaHa/TestHaHa.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "TestHaHa",
+          "methods": [],
+          "actualName": "TestHaHa"
+        }
+      ]
+    },
+    {
+      "key": "src/components/TestHeHe/TestHeHe.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "TestHeHe",
+          "methods": [],
+          "actualName": "TestHeHe"
+        }
+      ]
+    }
+  ]
+}

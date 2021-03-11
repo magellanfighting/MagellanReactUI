@@ -6,3 +6,6 @@
 * 4.发布：npm publish
 * 5.切回淘宝镜像  npm config set registry http://registry.npm.taobao.org
 * 6.提交代码
+
+
+### 查看文档  yarn docz dev
